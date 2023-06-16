@@ -1,4 +1,18 @@
-# cf7-for-readymode
+=== CF7 to Webhook ===
+
+Contributors: masterfermin02
+Donate link: https://github.com/masterfermin02/cf7-for-readymode
+Tags: cf7, contact form, readymode, integration, contact form 7, webhook, masterfermin02
+Requires at least: 4.7
+Tested up to: 6.2
+Stable tag: trunk
+Requires PHP: 7.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Use Contact Form 7 as a trigger to any webhook like readymode!
+
+== Description ==
 
 [Contact Form 7 (CF7)](https://wordpress.org/plugins/contact-form-7/ "Install it first, of course") is a awesome plugin used by 1+ million WordPress websites.
 
